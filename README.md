@@ -1,9 +1,9 @@
-# Skudi Technologies — High-Tech Website V3
+# Skudi Technologies Website — V4
 
-Complete GitHub Pages-ready package with original wave logo, architectural network illustration, mobile navigation, About, Catalog, Services, Support, and Contact. No third-party vendor names or unreleased product names.
+Mobile-first static website for GitHub Pages. The full website is included: index.html, styles.css, script.js, and assets/skudi-logo.png.
 
-## Deploy from iPhone
-Extract the ZIP in Files, open the extracted folder, and upload the **contents** (not the enclosing folder) to the root of your GitHub Pages repository: `index.html`, `styles.css`, `script.js`, and the `assets` folder with `skudi-logo.png`. Commit changes to `main`. GitHub Pages: Settings > Pages > Deploy from a branch > main > /(root).
+## Publish
+Upload **the extracted files and the assets folder** to the root of your GitHub Pages publishing branch. Keep `assets/skudi-logo.png` inside `assets/` so the logo loads correctly. Set GitHub Pages to deploy from that branch, `/(root)`.
 
-## Review before publishing
-The `contact@skuditech.com` address is an **unverified placeholder**. Confirm that it works or change it in `index.html` before publishing. No form backend is included; Contact opens an email draft.
+## Before going live
+Confirm that `contact@skuditech.com` is a working mailbox. It is currently a placeholder, explicitly marked on the page. Review and approve all copy. No vendor names or unreleased products are included.
